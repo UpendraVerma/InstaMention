@@ -35,6 +35,10 @@ InstaMention is a dynamic iOS application designed to enhance chat experiences b
 
 5. Send Messages: Once you finish typing your message (with or without mentions), tap the send button to deliver your message to the chat.
 
+## Demo
+![Demo](InstaMention/InstaMention/Resource/Demo.gif)
+
+
 #Contributing
 Contributions are welcome! Please create a pull request or open an issue for any enhancements or bug fixes.
 
