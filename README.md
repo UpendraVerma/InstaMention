@@ -39,10 +39,10 @@ InstaMention is a dynamic iOS application designed to enhance chat experiences b
 ![Demo](InstaMention/InstaMention/Resource/Demo.gif)
 
 
-#Contributing
+# Contributing
 Contributions are welcome! Please create a pull request or open an issue for any enhancements or bug fixes.
 
-#License
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Feel free to modify any part of this as needed!
