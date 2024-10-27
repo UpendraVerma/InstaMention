@@ -24,6 +24,7 @@
 		DDF0EF412CA81A670020C3B1 /* CellUserList.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDF0EF402CA81A670020C3B1 /* CellUserList.swift */; };
 		DDF0EF442CA81A7C0020C3B1 /* CellUserList.xib in Resources */ = {isa = PBXBuildFile; fileRef = DDF0EF432CA81A7C0020C3B1 /* CellUserList.xib */; };
 		DDF0EF462CA821CA0020C3B1 /* DummyData.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDF0EF452CA821CA0020C3B1 /* DummyData.swift */; };
+		DDFBAFFA2CCE491A00E40119 /* Demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = DDFBAFF92CCE491A00E40119 /* Demo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		DDF0EF402CA81A670020C3B1 /* CellUserList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellUserList.swift; sourceTree = "<group>"; };
 		DDF0EF432CA81A7C0020C3B1 /* CellUserList.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CellUserList.xib; sourceTree = "<group>"; };
 		DDF0EF452CA821CA0020C3B1 /* DummyData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DummyData.swift; sourceTree = "<group>"; };
+		DDFBAFF92CCE491A00E40119 /* Demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Demo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,12 +82,12 @@
 			children = (
 				DDF0EF3F2CA81A250020C3B1 /* XIB */,
 				DDF0EF2F2CA7FE3F0020C3B1 /* Base */,
+				DDFBAFF82CCE48E100E40119 /* Resource */,
 				DDF0EF2E2CA7FE2E0020C3B1 /* Helper */,
 				DDF0EF342CA803180020C3B1 /* Model */,
 				DDF0EF1C2CA7FB4B0020C3B1 /* ViewController.swift */,
 				DDF0EF372CA804E80020C3B1 /* MentionManager.swift */,
 				DDF0EF1E2CA7FB4B0020C3B1 /* Main.storyboard */,
-				DDF0EF212CA7FB4C0020C3B1 /* Assets.xcassets */,
 				DDF0EF232CA7FB4C0020C3B1 /* LaunchScreen.storyboard */,
 				DDF0EF262CA7FB4C0020C3B1 /* Info.plist */,
 			);
@@ -138,6 +140,15 @@
 				DDF0EF432CA81A7C0020C3B1 /* CellUserList.xib */,
 			);
 			path = CellUserList;
+			sourceTree = "<group>";
+		};
+		DDFBAFF82CCE48E100E40119 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				DDFBAFF92CCE491A00E40119 /* Demo.gif */,
+				DDF0EF212CA7FB4C0020C3B1 /* Assets.xcassets */,
+			);
+			path = Resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -201,6 +212,7 @@
 				DDF0EF442CA81A7C0020C3B1 /* CellUserList.xib in Resources */,
 				DDF0EF222CA7FB4C0020C3B1 /* Assets.xcassets in Resources */,
 				DDF0EF252CA7FB4C0020C3B1 /* Base in Resources */,
+				DDFBAFFA2CCE491A00E40119 /* Demo.gif in Resources */,
 				DDF0EF202CA7FB4B0020C3B1 /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
